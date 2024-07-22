@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1721627141516.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "19E78CD7",
+    "lastKnownWriteTime" : 1721633869,
+    "last_content_update" : 1721633869353,
+    "path" : "~/Documents/github/seqyuan/annosc/R/dim_vis.R",
+    "project_path" : "R/dim_vis.R",
+    "properties" : {
+        "cursorPosition" : "82,10",
+        "scrollLine" : "75"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
